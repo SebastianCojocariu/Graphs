@@ -1,6 +1,6 @@
 Sebastian Cojocariu 321CB UPB ACS										                  
                                       
-                                      Graphs
+                                     		 Graphs
 1)Minlexbfs
 	Pentru a obtine parcurgerea minima lexicografica vom folosi urmatorul
 artificiu:vom sorta nodurile din fiecare lista de adiacenta a fiecarui nod
